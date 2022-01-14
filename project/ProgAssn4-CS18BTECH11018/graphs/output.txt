@@ -1,0 +1,48 @@
+Thr2s write of 1957747793 on location 1 at 15:41:42
+Thr5s write of 596516649 on location 2 at 15:41:42
+Thr2s write of 1025202362 on location 3 at 15:41:42
+Thr3s write of 1681692777 on location 1 at 15:41:42
+Thr4s write of 719885386 on location 3 at 15:41:42
+Thr1s write of 1804289383 on location 2 at 15:41:42
+Snapshot Thr's snapshot: l1-1681692777 l2-1804289383 l3-719885386 l4-0 l5-0  time 237
+Snapshot Thr's snapshot: l1-1681692777 l2-1804289383 l3-719885386 l4-0 l5-0  time 6
+Thr2s write of 783368690 on location 5 at 15:41:43
+Thr2s write of 2044897763 on location 2 at 15:41:43
+Thr2s write of 1365180540 on location 2 at 15:41:43
+Thr5s write of 304089172 on location 2 at 15:41:45
+Thr1s write of 35005211 on location 4 at 15:41:45
+Snapshot Thr's snapshot: l1-1681692777 l2-304089172 l3-719885386 l4-35005211 l5-783368690  time 51
+Thr3s write of 294702567 on location 5 at 15:41:47
+Thr1s write of 336465782 on location 1 at 15:41:48
+Thr2s write of 278722862 on location 4 at 15:41:48
+Thr2s write of 2145174067 on location 1 at 15:41:48
+Thr2s write of 1101513929 on location 3 at 15:41:49
+Snapshot Thr's snapshot: l1-2145174067 l2-304089172 l3-1101513929 l4-278722862 l5-294702567  time 74
+Snapshot Thr's snapshot: l1-2145174067 l2-304089172 l3-1101513929 l4-278722862 l5-294702567  time 68
+Thr3s write of 1315634022 on location 4 at 15:41:53
+Thr4s write of 1369133069 on location 3 at 15:41:55
+Thr4s write of 1059961393 on location 2 at 15:41:55
+Thr1s write of 628175011 on location 3 at 15:41:55
+Thr2s write of 1131176229 on location 4 at 15:41:56
+Thr1s write of 859484421 on location 5 at 15:41:57
+Thr5s write of 608413784 on location 3 at 15:41:58
+Thr5s write of 1734575198 on location 5 at 15:41:58
+Thr1s write of 149798315 on location 1 at 15:41:58
+Thr1s write of 1129566413 on location 2 at 15:41:58
+Thr3s write of 412776091 on location 1 at 15:41:59
+Thr2s write of 1911759956 on location 4 at 15:41:59
+Thr3s write of 137806862 on location 1 at 15:42:00
+Thr3s write of 982906996 on location 2 at 15:42:00
+Thr3s write of 511702305 on location 1 at 15:42:00
+Thr1s write of 1937477084 on location 3 at 15:42:01
+Thr3s write of 572660336 on location 1 at 15:42:02
+Thr2s write of 805750846 on location 5 at 15:42:02
+Thr2s write of 1100661313 on location 3 at 15:42:02
+Thr4s write of 1141616124 on location 1 at 15:42:05
+Thr4s write of 939819582 on location 1 at 15:42:05
+Thr3s write of 1998898814 on location 3 at 15:42:05
+Thr5s write of 610515434 on location 5 at 15:42:09
+Thr2s write of 1374344043 on location 1 at 15:42:09
+Thr3s write of 1477171087 on location 4 at 15:42:09
+Thr4s write of 945117276 on location 4 at 15:42:10
+Thr3s write of 1780695788 on location 5 at 15:42:10

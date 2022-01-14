@@ -1,0 +1,55 @@
+************m***********
+Mue_s 3 Mue_w 30
+Ratio :0.1
+Avg case: 24.6
+worst case: 44
+************m***********
+Mue_s 6 Mue_w 30
+Ratio :0.2
+Avg case: 21
+worst case: 23
+************m***********
+Mue_s 12 Mue_w 30
+Ratio :0.4
+Avg case: 19.2
+worst case: 23
+************m***********
+Mue_s 18 Mue_w 30
+Ratio :0.6
+Avg case: 25
+worst case: 39
+************m***********
+Mue_s 24 Mue_w 30
+Ratio :0.8
+Avg case: 23.2
+worst case: 24
+************m***********
+Mue_s 30 Mue_w 30
+Ratio :1
+Avg case: 22.8
+worst case: 23
+************m***********
+Mue_s 6 Mue_w 3
+Ratio :2
+Avg case: 21
+worst case: 26
+************m***********
+Mue_s 12 Mue_w 3
+Ratio :4
+Avg case: 22.8
+worst case: 24
+************m***********
+Mue_s 16 Mue_w 3
+Ratio :5.33333
+Avg case: 23.6
+worst case: 25
+************m***********
+Mue_s 24 Mue_w 3
+Ratio :8
+Avg case: 24
+worst case: 36
+************m***********
+Mue_s 30 Mue_w 3
+Ratio :10
+Avg case: 24.2
+worst case: 30
